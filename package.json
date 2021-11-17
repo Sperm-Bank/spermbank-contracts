@@ -1,0 +1,10 @@
+{
+  "name": "spermbankdao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "0xPoo",
+  "license": "MIT",
+  "dependencies": {
+    "hardhat": "^2.6.8"
+  }
+}
